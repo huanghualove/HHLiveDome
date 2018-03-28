@@ -1,0 +1,12 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '9.0'
+use_frameworks!
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'HHLiveDome' do
+  pod 'AFNetworking', '~> 3.1.0'
+  pod 'SDWebImage', '~>4.0'
+  pod 'MJExtension', '~> 3.0.13'
+  pod 'LFLiveKit', '~> 1.6'
+end
