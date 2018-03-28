@@ -10,7 +10,7 @@
 3.美颜直播推流 LFLiveKit
 
 
-4.下载后需要重新到入 IJKMediaFramework.framework   因为 giuhub限制100M。
+4.在下载IJKMediaFramework后需要重导入 ，把IJKMediaFramework.framework 拖入项目 。( 因为 giuhub限制100M。)
 
 
 
